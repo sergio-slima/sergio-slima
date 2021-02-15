@@ -1,4 +1,4 @@
-# Hi, I'm Sergio Lima! 👋
+# Olá, sou o Sergio Lima! 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/sergio-slima)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/sergio-silva-lima-b99237140/)
@@ -7,9 +7,9 @@
 
 ### About me
 
-- 🔭 I’m currently working as {back-end, front-end and mobile - Delphi} analyst and technical instructor at [@inforsys] (http://www.inforsys.com.br).
+- 🔭 Eu trabalho atualmente na Empresa Inforsys {back-end, front-end and mobile - Delphi}, atuando como Analista de Sistemas e Técnico de Suporte. At: [@inforsys] (http://www.inforsys.com.br).
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
+- 🌱 Atualmente estou estudando HTML, CSS e JavaScript.
 <!--
 **sergio-slima/sergio-slima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
