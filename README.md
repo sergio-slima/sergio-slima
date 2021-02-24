@@ -10,10 +10,10 @@ Sou apaixonado por resolver problemas utilizando a programação. :computer:
 - 🌱 Atualmente estou estudando HTML, CSS, JavaScript e React.
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/sergio-slima)
+:email: &nbsp; Entre em contato comigo: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/sergio-slima)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&labelColor=red&logo=instagram&logoColor=white&link=https://www.instagram.com/sergio_silva_/)](https://www.instagram.com/sergio_silva_/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/sergio-silva-lima-b99237140/)
-:email: &nbsp; Entre em contato comigo: [![Gmail Badge](https://img.shields.io/badge/-sergio.infosys@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergio.infosys@gmail.com)](mailto:sergio.infosys@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sergio.infosys@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergio.infosys@gmail.com)](mailto:sergio.infosys@gmail.com)
 
 <!--
 **sergio-slima/sergio-slima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
