@@ -5,7 +5,7 @@ Sou apaixonado por resolver problemas utilizando a programação. :computer:
 
 ### Sobre mim
 
-- 🔭 Eu trabalho atualmente na Empresa Inforsys {back-end, front-end and mobile - Delphi}, atuando como Analista de Sistemas e Técnico de Suporte. Site: (http://www.inforsys.com.br).
+- 🔭 Eu trabalho atualmente na Empresa Inforsys {back-end, front-end and mobile - Delphi}, atuando como Analista de Sistemas e Suporte Técnico. Site: (http://www.inforsys.com.br).
 
 - 🌱 Atualmente estou estudando HTML, CSS, JavaScript e React.
 
