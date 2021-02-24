@@ -1,5 +1,9 @@
-# Olá, sou o Sergio Lima! 👋
+# Sergio Lima
 
+## Olá Dev 👋
+Sou apaixonado por resolver problemas utilizando a programação. :computer:
+
+[![Gmail Badge](https://img.shields.io/badge/-sergio.infosys@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergio.infosys@gmail.com)](mailto:sergio.infosys@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/sergio-slima)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/sergio-silva-lima-b99237140/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&labelColor=red&logo=instagram&logoColor=white&link=https://www.instagram.com/sergio_silva_/)](https://www.instagram.com/sergio_silva_/)
@@ -7,9 +11,11 @@
 
 ### Sobre mim
 
-- 🔭 Eu trabalho atualmente na Empresa Inforsys {back-end, front-end and mobile - Delphi}, atuando como Analista de Sistemas e Técnico de Suporte. At: [@inforsys] (http://www.inforsys.com.br).
+- 🔭 Eu trabalho atualmente na Empresa Inforsys {back-end, front-end and mobile - Delphi}, atuando como Analista de Sistemas e Técnico de Suporte. Site: (http://www.inforsys.com.br).
 
-- 🌱 Atualmente estou estudando HTML, CSS e JavaScript.
+- 🌱 Atualmente estou estudando HTML, CSS, JavaScript e React.
+
+
 <!--
 **sergio-slima/sergio-slima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
