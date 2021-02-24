@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&labelColor=red&logo=instagram&logoColor=white&link=https://www.instagram.com/sergio_silva_/)](https://www.instagram.com/sergio_silva_/)
 
 
-### About me
+### Sobre mim
 
 - 🔭 Eu trabalho atualmente na Empresa Inforsys {back-end, front-end and mobile - Delphi}, atuando como Analista de Sistemas e Técnico de Suporte. At: [@inforsys] (http://www.inforsys.com.br).
 
