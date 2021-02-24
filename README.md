@@ -1,6 +1,4 @@
-# Sergio Lima
-
-## Olá Dev 👋
+## Fala, Dev.. Sou o Sergio Silva Lima 👋
 Sou apaixonado por resolver problemas utilizando a programação. :computer:
 
 ### Sobre mim
