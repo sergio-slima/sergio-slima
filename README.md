@@ -1,9 +1,9 @@
-## Fala, Dev.. Sou o Sergio Silva Lima 👋
+## Opa! Sou o Sergio Lima 👋
 Sou apaixonado por resolver problemas utilizando a programação. :computer:
 
 ### Sobre mim
 
-- 🔭 Trabalho na Empresa Inforsys {back-end, front-end and mobile - Delphi}, atuando como Analista de Sistemas e Suporte Técnico. Site: (http://www.inforsys.com.br).
+- 🔭 Trabalho na Empresa Inforsys {back-end - front-end - Delphi}, atuando como Analista de Sistemas e Desenvolver Junior. Site: (http://www.inforsys.com.br).
 
 - 🌱 Atualmente estou estudando HTML, CSS, JavaScript e React.
 
