@@ -3,7 +3,7 @@ Gosto de resolver problemas utilizando a linguagem de programação. :computer:
 
 ### Sobre mim
 
-- 🔭 Trabalho na Empresa Inforsys {back-end - front-end - Delphi}, atuando como Analista de Sistemas e Desenvolvedor Junior. Site: (http://www.inforsys.com.br).
+- 🔭 Trabalho na Empresa Inforsys Sistemas (back-end | front-end | Delphi | Firebird), atuando como Analista de Sistemas e Desenvolvedor Junior. Site: (http://www.inforsys.com.br).
 
 - 🌱 Atualmente estou estudando HTML, CSS, JavaScript e ReactJS.
 
