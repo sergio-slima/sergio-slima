@@ -1,11 +1,11 @@
 ## Opa! Sou o Sergio Lima 👋
-Sou apaixonado por resolver problemas utilizando a programação. :computer:
+Gosto de resolver problemas utilizando a linguagem de programação. :computer:
 
 ### Sobre mim
 
-- 🔭 Trabalho na Empresa Inforsys {back-end - front-end - Delphi}, atuando como Analista de Sistemas e Desenvolver Junior. Site: (http://www.inforsys.com.br).
+- 🔭 Trabalho na Empresa Inforsys {back-end - front-end - Delphi}, atuando como Analista de Sistemas e Desenvolvedor Junior. Site: (http://www.inforsys.com.br).
 
-- 🌱 Atualmente estou estudando HTML, CSS, JavaScript e React.
+- 🌱 Atualmente estou estudando HTML, CSS, JavaScript e ReactJS.
 
 
 :email: &nbsp; Entre em contato comigo: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/sergio-slima)
