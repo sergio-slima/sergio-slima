@@ -28,6 +28,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <img src="https://sergio-slima.github.io/nlw-cartao-virtual/" />
- </div>
+[Sergio SLima](https://sergio-slima.github.io/nlw-cartao-virtual/)
